@@ -1,16 +1,10 @@
 import pygame
 import random
 
-#print (dir(pygame))
+
 
 successes, failures = pygame.init()
 
-
-#print(successes)
-#print(failures)
-#print ("="*30)
-
-#============================================================
 
 # background
 bg = pygame.image.load("background_game.webp")

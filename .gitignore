@@ -1,0 +1,11 @@
+# Python environment
+gameenv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
